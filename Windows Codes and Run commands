@@ -1,0 +1,10 @@
+To stop the Windows update 
+Win+R
+type on run
+services.msc
+select the Windows update
+right click - go to properties 
+select Startup type Disabled
+Stop the service status
+apply
+ok
